@@ -9,9 +9,10 @@
 body{
     
    
-    background:rgb(16, 16, 17);
-    /* background-position: center center;
-    background-size:cover ; */
+    
+    background-image: url(../img/bdy.PNG);
+    background-position: center center;
+    background-size:cover ;
     
 }
 
