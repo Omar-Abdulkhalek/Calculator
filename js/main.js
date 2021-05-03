@@ -116,10 +116,9 @@ nine.addEventListener("click", function () {
 
 mines.addEventListener("click", function () {
 
-    if (document.calc.txt.value != "" && document.calc.txt.value != " ") {
+  
         document.calc.txt.value += `-`;
 
-    }
 
 
 })
@@ -174,10 +173,10 @@ dot.addEventListener("click", function () {
     var str = document.calc.txt.value;
 
 
-    if (str != "" && str != " ") {
+    
 
         document.calc.txt.value += `.`;
-    }
+   
 
 
 })
